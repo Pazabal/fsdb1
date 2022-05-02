@@ -1,0 +1,31 @@
+#visualizador {
+    border: 15px black solid;
+    display: block;
+    height: 600px;
+    width: 800px;
+    margin-bottom: 15px;
+  }
+  
+  #stream_deck {
+    display: block;
+    height: 600px;
+    width: 800px;
+  }
+  
+  #paisajes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 15px;
+  }
+  
+  #colores {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  
+  .boton {
+    width:100px;
+    height: 75px;
+  }
