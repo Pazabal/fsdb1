@@ -1,0 +1,57 @@
+.body{
+    font-family: 'DM Sans', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+#modal_background {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */ 
+}
+#iconPopup {
+
+}
+.header {
+    background-image: url(./Materiales/manos.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#oficina {
+    background-image: url(./Materiales/oficina.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.voluntariado {
+    background-image: url(./Materiales/voluntariado.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#news_img1 {
+    background-image: url(./Materiales/nino-perro.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#news_img2 {
+    background-image: url(./Materiales/techo1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#news_img3 {
+    background-image: url(./Materiales/donacion.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#news_img4 {
+    background-image: url(./Materiales/techo2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
